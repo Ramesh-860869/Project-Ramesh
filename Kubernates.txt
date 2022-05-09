@@ -17,3 +17,4 @@ kubernetes pods used to create mulitple containers------> using the pod it will 
 
 
 Sanjay cobra
+Ramesh wiper
